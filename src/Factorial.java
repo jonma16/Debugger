@@ -1,7 +1,7 @@
 
 public class Factorial {
 	public static void main( String[] args ) {
-	      int numero = 8;
+	      int numero = 9;
 	      System.out.println( "El factorial de " + numero + " es: " + factorial( numero ) );      
 	   }
 	 
